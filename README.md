@@ -4,7 +4,7 @@ Aplicativo mobile desenvolvido em Flutter com foco em descoberta e adoção de a
 
 ## Para que serve
 <p align="center">
-<img src="https://github.com/user-attachments/assets/09ce0b7c-0ecf-47bb-aaa9-2379ef2c0a5d" width="300" alt="Detalhes do Pet" />
+<img src="https://github.com/user-attachments/assets/1e97fdba-5856-41f3-8db3-a30f7f3e1640" width="700" alt="Detalhes do Pet" />
 </p>
 O AdoPet foi pensado para aproximar pessoas interessadas em adotar de abrigos, ONGs e tutores. Na implementação atual, ele funciona como um MVP/protótipo funcional com fluxo de navegação completo e persistência local da conta do usuário.
 
@@ -37,7 +37,7 @@ O projeto já possui interface navegável e recursos de experiência do usuário
 
 ### Conta e perfil
 <p align="center">
-<img src="https://github.com/user-attachments/assets/330c1b6b-350c-4c6f-9190-5f82b3ad5609" width="300" alt="Dashboard e Listagem" />
+<img src="https://github.com/user-attachments/assets/330c1b6b-350c-4c6f-9190-5f82b3ad5609" width="700" alt="Dashboard e Listagem" />
 </p>
 
 - cadastro e login local
@@ -55,7 +55,7 @@ O projeto já possui interface navegável e recursos de experiência do usuário
 
 ## Stack e tecnologias
 <p align="center">
-<img src="https://github.com/user-attachments/assets/e81d24a9-e853-44f5-9850-5115ae0b6388" width="400" alt="Home do AdoPet" />
+<img src="https://github.com/user-attachments/assets/e81d24a9-e853-44f5-9850-5115ae0b6388" width="700" alt="Home do AdoPet" />
 </p>
 
 - Flutter
@@ -79,7 +79,7 @@ O projeto já possui interface navegável e recursos de experiência do usuário
 ## Arquitetura atual
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/e5911d34-bb89-41f0-913b-fdb344aa2393" width="500" controls muted autoplay loop>
+  <video src="https://github.com/user-attachments/assets/42c1d6be-3c98-4ec6-acc7-9a8f85ac325b" width="700" controls muted autoplay loop>
     Seu navegador não suporta a tag de vídeo.
   </video>
 </p>
