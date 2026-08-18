@@ -13,5 +13,11 @@ dependencies:
   image_picker: ^1.2.1
   shared_preferences: ^2.5.3
 
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+
 flutter:
   uses-material-design: true
